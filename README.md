@@ -1,0 +1,1 @@
+# platformio-tool-mkspiffs-esp8266-rtos-win32
