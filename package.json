@@ -10,7 +10,6 @@
   "license": "MIT",
   "system": [
     "windows_amd64",
-    "windows_arm64",
     "windows",
     "windows_x86"
   ],
